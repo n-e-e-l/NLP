@@ -4,7 +4,7 @@ Goal: To identify the author of the paragraph given from the book.
 
 Natural Language Processing: 
 For the text data:-
-Lowercase <\ br>
+Lowercase </ br>
 Remove Puntuation <\ br>
 Remove stopwords <\ br>
 Remove non english words if any<\ br>
